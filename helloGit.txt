@@ -1,30 +1,3 @@
 helloGit qiangzhe
 helloGit qiangzheqiangzheqiangzhe
 helloGit master
-helloGit master
-helloGit master
-helloGit
-helloGit
-helloGit
-helloGit
-helloGit
-helloGit
-helloGit
-helloGit
-helloGit
-<<<<<<< HEAD
-hot-fix hot-fix hot-fix master
-hot-fix hot-fix hot-fix master
-hot-fix hot-fix hot-fix master
-hot-fix hot-fix hot-fix master
-hot-fix hot-fix hot-fix master
-=======
-helloGit
-helloGit
-helloGit
-hot-fix hot-fix hot-fix hot-fix hot-fix
-hot-fix hot-fix hot-fix hot-fix hot-fix
-hot-fix hot-fix hot-fix hot-fix hot-fix
-hot-fix hot-fix hot-fix hot-fix hot-fix
-hot-fix hot-fix hot-fix hot-fix hot-fix
->>>>>>> hot-fix
