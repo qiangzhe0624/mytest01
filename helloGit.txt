@@ -12,8 +12,19 @@ helloGit
 helloGit
 helloGit
 helloGit
+<<<<<<< HEAD
 hot-fix hot-fix hot-fix master
 hot-fix hot-fix hot-fix master
 hot-fix hot-fix hot-fix master
 hot-fix hot-fix hot-fix master
 hot-fix hot-fix hot-fix master
+=======
+helloGit
+helloGit
+helloGit
+hot-fix hot-fix hot-fix hot-fix hot-fix
+hot-fix hot-fix hot-fix hot-fix hot-fix
+hot-fix hot-fix hot-fix hot-fix hot-fix
+hot-fix hot-fix hot-fix hot-fix hot-fix
+hot-fix hot-fix hot-fix hot-fix hot-fix
+>>>>>>> hot-fix
